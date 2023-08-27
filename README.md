@@ -1,6 +1,6 @@
 ### Introduction: 
 
-The aim of the project is to develop a plagiarism detector that compares two text as well as code files and checks if they are plagiarized or not. If plagiarized, it also detects the percentage of plagiarized data.
+The aim of the project is to develop a Plagiarism Detection Program designed to compare two sets of source code files or text files and determine whether they exhibit plagiarism. This program assists in identifying potential instances of content reuse and calculates the plagiarism percentage to provide a clear indication of similarity between the files.
 
 To achieve the goal, two algorithms have been used:
 
