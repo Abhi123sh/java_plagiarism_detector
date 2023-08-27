@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.text.DecimalFormat;
 
-public class s40185375_detector 
+public class plagiarism_detector 
 {
 	static final DecimalFormat df = new DecimalFormat("0.00");
 	static String file1Name;
